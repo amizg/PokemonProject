@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1618366291 source:c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"trainer.h"
+	"pokemon.h"
+	"fastMove.h"
+	"chargedMove.h"
+
+1617761008 source:c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\src\chargedmove.cpp
+	<string>
+	"chargedMove.h"
+
+1617761314 c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\include\chargedmove.h
+	<string>
+
+1618364610 c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\include\trainer.h
+	<string>
+	<vector>
+	"pokemon.h"
+
+1618363355 c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\include\pokemon.h
+	<string>
+	"fastMove.h"
+	"chargedMove.h"
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
+1618106408 c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\include\fastmove.h
+	<string>
+
+1618364405 source:c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\src\pokemon.cpp
+	"pokemon.h"
+	"fastMove.h"
+	"chargedMove.h"
+	<string>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+
+1618365534 source:c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\src\trainer.cpp
+	<string>
+	<iostream>
+	<math.h>
+	<vector>
+	"trainer.h"
+	"fastMove.h"
+
+1618364405 source:c:\users\adammiz\desktop\u-mich\cpp\project 3\project 3\src\fastmove.cpp
+	<string>
+	<iostream>
+	"fastMove.h"
+
